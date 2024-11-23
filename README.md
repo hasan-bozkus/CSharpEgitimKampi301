@@ -7,7 +7,7 @@ M&Y Yazılım Eğitim Akademi Danışmanlık bünyesinde youtube tarafında C# i
 
 # FrmStatistics Proje Detayları
 
-➡️ <b> Tüm işlemlerde Entity Framework kullanarak ile Windofws Form uygulamasında 12 verinin çekildği bir isatistik tablosu hazırladık<br>
+➡️ <b> Tüm işlemlerde Entity Framework kullanarak Windofws Form uygulamasında 12 verinin çekildği bir isatistik tablosu hazırladık<br>
 
 📍 <b> Lokasyon Sayısı: </b> Veri tabanı bağlantısı ile erişitiğimiz Location tablosunda Count() metoud ile Location tablosunda ne kadar lokasyon varsa çekip, ToString() metodu ile ekrana yazıdırdık.
 <br />
